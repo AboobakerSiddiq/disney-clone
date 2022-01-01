@@ -1,0 +1,120 @@
+.detail {
+  min-height: calc(100vh - 70px);
+  padding: 0 calc(3.5vw + 5px);
+  position: relative;
+  overflow-x: hidden;
+}
+.background_banner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+  opacity: 0.8;
+}
+.bg_img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.img_title {
+  height: 30vh;
+  min-height: 170px;
+  width: 35vw;
+  min-width: 200px;
+  margin-top: 60px;
+}
+.img_title img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.control_button {
+  display: flex;
+  align-items: center;
+}
+.playbutton {
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 15px;
+  color: black;
+  padding: 0px 24px;
+  margin-right: 22px;
+  display: flex;
+  align-items: center;
+  height: 56px;
+  background-color: rgb(249, 249, 249);
+  border: none;
+  letter-spacing: 1.8px;
+}
+.playbutton:hover {
+  background: rgb(198, 198, 198);
+}
+.trailorbutton {
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 15px;
+  color: white;
+  padding: 0px 24px;
+  margin-right: 22px;
+  display: flex;
+  align-items: center;
+  height: 56px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: none;
+  letter-spacing: 1.8px;
+  border: 1px solid rgb(249, 249, 249);
+  text-transform: uppercase;
+}
+.trailorbutton:hover {
+  background: rgb(198, 198, 198);
+}
+.Addbutton {
+  margin-right: 16px;
+  cursor: pointer;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  border-radius: 50%;
+  border: 2px solid white;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.Addbutton span {
+  font-size: 30px;
+  color: white;
+  bottom: -20px;
+}
+.groupbutton {
+  margin-left: 5px;
+  cursor: pointer;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  border-radius: 50%;
+  border: 2px solid white;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.groupbutton img {
+  font-size: 30px;
+  color: white;
+  bottom: -20px;
+}
+.subtitle {
+  color: lightgray;
+  font-size: 14px;
+  min-height: 20px;
+  margin-top: 26px;
+}
+.description {
+  line-height: 1.4;
+  color: rgb(249, 249, 249);
+  font-size: 16px;
+  margin-top: 16px;
+  max-width: 760px;
+}
