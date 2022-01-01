@@ -1,3 +1,23 @@
+THIS IS A DISNEY_CLONE WITH REACTJS AS FRONTEND AND REGULAR CSS FOR CSS AND FOR THE BACKEND FIREBASE IS USED FOR BOTH AUTHENTICATION AND DATABASE
+
+
+![Screenshot (1)](https://user-images.githubusercontent.com/86041645/147849867-3ce959a0-b95b-4395-9cd5-c3398ef3d70e.png)
+
+
+![Screenshot (2)](https://user-images.githubusercontent.com/86041645/147849851-857b868d-d0c5-4de6-af1d-b3f2fe8630b4.png)
+
+![Screenshot (3)](https://user-images.githubusercontent.com/86041645/147849854-6bef3bd4-870e-41a5-9c5d-921c85bf65c1.png)
+
+
+![Screenshot (4)](https://user-images.githubusercontent.com/86041645/147849855-a443a0b2-3d35-44fe-ab1a-40830b106006.png)
+
+
+![Screenshot (5)](https://user-images.githubusercontent.com/86041645/147849858-bf7fb54f-1d71-4095-ace8-aff9346c0a96.png)
+
+
+![Screenshot (6)](https://user-images.githubusercontent.com/86041645/147849861-69de8052-9ab9-460d-97f0-8ea66aaff472.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
